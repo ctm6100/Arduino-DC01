@@ -16,7 +16,7 @@ This is Arduino library for the DC01 infrared air quality sensor. It provides an
 Add the following to your `platformio.ini`:
 
 ```yaml
-library_dependencies =
+lib_deps =
   https://github.com/ctm6100/Arduino-DC01
 ```
 
